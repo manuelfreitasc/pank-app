@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "be0f8eeb-c092-4c09-bd1b-68de504501c5"
+      }
+    },
+    "owner": "manuelfrreitasc"
   }
 }
